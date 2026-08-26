@@ -5,4 +5,4 @@ Site: mastercraftproservices.com
 - Video 05 draft in progress
 
 ## Open items
-- [ ] Deliver Video 05 draft
+- [ ] Deliver Video 05 draft DONE
